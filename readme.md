@@ -1,3 +1,5 @@
+[![Deploy Bicep template](https://github.com/KateiRen/TrainingDayWebApp/actions/workflows/deploy_infra.yml/badge.svg)](https://github.com/KateiRen/TrainingDayWebApp/actions/workflows/deploy_infra.yml)
+
 # Learning Days GitHub Actions
 
 - [AzureDev College](https://github.com/azuredevcollege)
